@@ -1,0 +1,30 @@
+{
+  "name": "la",
+  "version": "0.0.1",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "bun --bun blade --port 7103",
+    "diff": "blade diff",
+    "apply": "blade apply",
+    "build": "blade build",
+    "serve": "blade serve",
+    "types": "blade types",
+    "s": "bun --watch scripts/run.ts"
+  },
+  "dependencies": {
+    "@base-ui-components/react": "^1.0.0-beta.4",
+    "@sglara/cn": "^1.0.0",
+    "blade": "3.29.7",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.2",
+    "@types/react-dom": "19.2.2",
+    "typescript": "5.9.3"
+  },
+  "prettier": {
+    "semi": false
+  }
+}
