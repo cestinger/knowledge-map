@@ -2,7 +2,11 @@
 
 Will be a proper tool for thought with global network attached.
 
-Previous attempt can be seen at [learn-anything.xyz](https://learn-anything.xyz) but we will replace the code soon.
+Previous attempt can be seen at [learn-anything.xyz](https://learn-anything.xyz) and will be replaced as soon as we have first good build out.
+
+Global data alongside user data will be preserved.
+
+Global data will move into the new database and user data will be loaded on demand but currently LA doesn't have that many active users so it's not a concern. Focus is on making incredible application. [Reflect](https://reflect.app) is our inspiration in many ways.
 
 ## Setup
 
@@ -22,4 +26,4 @@ You are welcome to join our [Discord](https://discord.gg/bxtD8x6aNF) for discuss
 
 There is lots of work to do to build this into something incredible.
 
-Right now focus is on getting editor working well. [Reflect](https://reflect.app) level quality.
+The focus is on the editor right now.
